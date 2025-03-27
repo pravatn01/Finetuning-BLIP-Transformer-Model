@@ -21,7 +21,7 @@ This project demonstrates **how to fine-tune the BLIP (Bootstrapped Language-Ima
 - Fine-tuned BLIP shows improved generalization on unseen images  
 
 ## 🌐 **Web App Demo**
-The trained model was **made using Gradio**, allowing users to input images and receive generated captions.
+The trained model was used in a webapp **made using Gradio**, allowing users to input images and receive generated captions.
 
 Below is a preview of the **web application demo**:  
 
